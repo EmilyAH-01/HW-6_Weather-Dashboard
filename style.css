@@ -1,0 +1,60 @@
+/* style.css: Weather Dashboard styling  */
+/* Emily Herman, HW 6, 10/22/2020  */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    /*font-size: 16px;*/
+    line-height: 1;
+}
+
+header {
+    text-align: center;
+    padding: 8px;
+}
+ 
+.city-button {
+    float: left;
+    width: 100%;
+    padding-top: 5px;
+    margin-top: 5px;
+    text-align: left;
+    background-color: white;
+}
+
+#uv-index {
+    background-color: white;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.blue-box {
+    background-color: #b3e3fc;
+    float: left;
+    border-radius: 15px;
+    width: 20%;
+}
+
+.forecast-icon {
+    width: 60px;
+}
+
+.main-icon {
+    height: 75px;
+}
+
+.card-body {
+    font-size: 14px;
+}
+
+.margin-0 {
+    margin-bottom: 0px;
+}
+
+h4 {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+h5 {
+    font-size: 18px;
+}
