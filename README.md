@@ -1,4 +1,4 @@
-# HW-6_Weather-Dashboard
+# Weather-Dashboard
 
 Emily Herman 
 | MSU Coding Bootcamp Homework 6
