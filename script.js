@@ -1,5 +1,5 @@
-/* script.js: Weather Dashboard JavaScript */
-/* Emily Herman, HW 6, 10/22/2020  */
+// Emily Herman
+// JavaScript for Weather Dashboard
 
 // Initialize variable for Search input
 var citySearch;
